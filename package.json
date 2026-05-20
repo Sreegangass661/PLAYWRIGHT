@@ -1,0 +1,25 @@
+{
+  
+  "name": "basics-first",
+  "version": "1.0.0",
+  "main": "Anonymous.js",
+  "scripts": {
+    "test": "npx cucumber-js"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.5.0",
+    "allure-commandline": "^2.38.1",
+    "allure-playwright": "^3.7.2"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^12.9.0",
+    "xlsx": "^0.18.5"
+  }
+  
+}

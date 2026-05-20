@@ -1,0 +1,14 @@
+"use strict";
+console.log("hello");
+let msg = "hello";
+console.log(msg);
+msg = "world";
+console.log(msg);
+let age = 10.5;
+console.log(age);
+let isStudent = true;
+console.log(isStudent);
+let data = "hello";
+console.log(data);
+let value = "hello";
+console.log(value);
